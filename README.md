@@ -22,10 +22,10 @@ Ambassador | [#01](https://github.com/BitPointNetwork/Roles/issues/1) | [spec](^
 Analytics maintainer | [#02](https://github.com/BitPointNetwork/Roles/issues/2) | [spec: Data Analyst](https://github.com/BitPointNetwork/Roles/blob/master/Specifications/Data%20Analyst.md) | todo
 Compensation maintainer | [#003](https://github.com/BitPointNetwork/Roles/issues/3) | [todo](todo) | todo
 DAO maintainer | [#001](^^^) | [spec](^^^) | todo
-DNS admin | [#04](https://github.com/BitPointNetwork/Roles/issues/4 | [todo](^^^) | todo
+DNS admin | [#04](https://github.com/BitPointNetwork/Roles/issues/4) | [todo](^^^) | todo
 Facebook admin | [#001](^^^) | [spec](^^^) | todo
-GitHub admin | [#05](https://github.com/BitPointNetwork/Roles/issues/5) | [todo](^^^) | todo
-Newsletter editor | [#01](^^^) | [spec](^^^) | todo
+GitHub admin | [#001](^^^) | [spec](^^^) | todo
+Newsletter editor | [#001](^^^) | [spec](^^^) | todo
 Proposals maintainer | [#001](^^^) | [spec](^^^) | todo
 Reddit admin | [#001](^^^) | [spec](^^^) | todo
 Telegram admin | [#001](^^^) | [spec](^^^) | todo
