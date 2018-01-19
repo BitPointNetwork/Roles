@@ -19,7 +19,7 @@ The owner of a given role is responsible for creating and maintaining their role
 Role | issue | specification | bond 
 --- | --- | --- | ---
 Ambassador | [#001](^^^) | [spec](^^^) | todo
-Analytics maintainer | [#001](^^^) | [spec](^^^) | todo
+Analytics maintainer | [#02](https://github.com/BitPointNetwork/Roles/issues/2) | [spec](https://github.com/BitPointNetwork/Roles/blob/master/Specifications/Data%20Analyst.md) | todo
 Compensation maintainer | [#001](^^^) | [spec](^^^) | todo
 DAO maintainer | [#001](^^^) | [spec](^^^) | todo
 DNS admin | [#001](^^^) | [spec](^^^) | todo
