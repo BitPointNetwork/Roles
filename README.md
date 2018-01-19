@@ -20,7 +20,7 @@ Role | issue | specification | bond
 --- | --- | --- | ---
 Ambassador | [#01](https://github.com/BitPointNetwork/Roles/issues/1) | [spec](^^^) | todo
 Analytics maintainer | [#02](https://github.com/BitPointNetwork/Roles/issues/2) | [spec: Data Analyst](https://github.com/BitPointNetwork/Roles/blob/master/Specifications/Data%20Analyst.md) | todo
-Compensation maintainer | [#001](^^^) | [spec](^^^) | todo
+Compensation maintainer | [#003](https://github.com/BitPointNetwork/Roles/issues/3) | [todo](todo) | todo
 DAO maintainer | [#001](^^^) | [spec](^^^) | todo
 DNS admin | [#001](^^^) | [spec](^^^) | todo
 Facebook admin | [#001](^^^) | [spec](^^^) | todo
