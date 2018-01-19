@@ -7,7 +7,7 @@ The owner of a given role is responsible for creating and maintaining their role
  
 ### How to Create a New Role
  
-1. Discuss and make sure there is consensus about the need for and purpose of this role in the riot `#roles` channel or elsewhere.
+1. Discuss and make sure there is consensus about the need for and purpose of this role in the discord `#roles` channel or elsewhere.
 2. Create a GitHub issue that will be used to track this role (see other role issues for examples).
 3. Create and edit a _specification_ document for this role based on `SPEC-TEMPLATE.md`. See existing role specifications linked from the table below for examples.
 4. Submit the new specification as a pull request. Be sure to mention the role issue ID, somewhere in the pull request title or description to ensure that the pull request shows up in the timeline of the role issue. Also, be sure to edit this file (`README.md`) and add an entry to the table of roles below.
