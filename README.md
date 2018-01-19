@@ -1,7 +1,5 @@
 # BitPoint Network DAO Roles
 https://github.com/BitPointNetwork
-[issues](/roles/issues)
-
  
 This repository provides complete information about all roles within the BitPoint Network DAO. It provides the reader with details about the purpose, motivation, privileges, requirements and responsibilities of all roles. This ensures clarity about one's own role, helps in understanding other roles and facilitates the compensation process.
  
